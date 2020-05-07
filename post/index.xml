@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
+    <title>Posts | Yuko Sato</title>
     <link>https://YukoSato.github.io/post/</link>
       <atom:link href="https://YukoSato.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ysato@mail.missouri.edu</copyright>
     <image>
-      <url>https://YukoSato.github.io/img/icon-192.png</url>
+      <url>https://YukoSato.github.io/img/icon.jpg</url>
       <title>Posts</title>
       <link>https://YukoSato.github.io/post/</link>
     </image>

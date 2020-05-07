@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moisés and Yuko Sato | Yuko Sato</title>
+    <link>https://YukoSato.github.io/author/moises-and-yuko-sato/</link>
+      <atom:link href="https://YukoSato.github.io/author/moises-and-yuko-sato/index.xml" rel="self" type="application/rss+xml" />
+    <description>Moisés and Yuko Sato</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ysato@mail.missouri.edu</copyright><lastBuildDate>Wed, 06 May 2020 19:04:12 +0900</lastBuildDate>
+    <image>
+      <url>https://YukoSato.github.io/img/icon.jpg</url>
+      <title>Moisés and Yuko Sato</title>
+      <link>https://YukoSato.github.io/author/moises-and-yuko-sato/</link>
+    </image>
+    
+    <item>
+      <title>Politics and the Variation of Protest in Latin America (Working Paper)</title>
+      <link>https://YukoSato.github.io/project/protest_la/</link>
+      <pubDate>Wed, 06 May 2020 19:04:12 +0900</pubDate>
+      <guid>https://YukoSato.github.io/project/protest_la/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

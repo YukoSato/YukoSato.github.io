@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Yuko Sato</title>
+    <link>https://YukoSato.github.io/project/</link>
+      <atom:link href="https://YukoSato.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ysato@mail.missouri.edu</copyright><lastBuildDate>Wed, 06 May 2020 19:05:08 +0900</lastBuildDate>
+    <image>
+      <url>https://YukoSato.github.io/img/icon.jpg</url>
+      <title>Projects</title>
+      <link>https://YukoSato.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Protest and State Policy Agendas: Marches and Gun Policy After Parkland (Working Paper)</title>
+      <link>https://YukoSato.github.io/project/gun_policy/</link>
+      <pubDate>Wed, 06 May 2020 19:05:08 +0900</pubDate>
+      <guid>https://YukoSato.github.io/project/gun_policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability and Change in the Foreign Aid Policy: The Role of Political and Bureaucratic Veto Players (Working Paper)</title>
+      <link>https://YukoSato.github.io/project/veto_foreign_policy/</link>
+      <pubDate>Wed, 06 May 2020 19:04:39 +0900</pubDate>
+      <guid>https://YukoSato.github.io/project/veto_foreign_policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics and the Variation of Protest in Latin America (Working Paper)</title>
+      <link>https://YukoSato.github.io/project/protest_la/</link>
+      <pubDate>Wed, 06 May 2020 19:04:12 +0900</pubDate>
+      <guid>https://YukoSato.github.io/project/protest_la/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
