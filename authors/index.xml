@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Yuko Sato</title>
+    <link>https://YukoSato.github.io/authors/</link>
+      <atom:link href="https://YukoSato.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2020 19:05:08 +0900</lastBuildDate>
+    <image>
+      <url>https://YukoSato.github.io/img/icon.jpg</url>
+      <title>Authors</title>
+      <link>https://YukoSato.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Sato</title>
+      <link>https://YukoSato.github.io/author/sato/</link>
+      <pubDate>Wed, 06 May 2020 19:05:08 +0900</pubDate>
+      <guid>https://YukoSato.github.io/author/sato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuko and Jake Haselswerdt</title>
+      <link>https://YukoSato.github.io/author/yuko-and-jake-haselswerdt/</link>
+      <pubDate>Wed, 06 May 2020 19:05:08 +0900</pubDate>
+      <guid>https://YukoSato.github.io/author/yuko-and-jake-haselswerdt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuko and Kentaro Sakuwa</title>
+      <link>https://YukoSato.github.io/author/yuko-and-kentaro-sakuwa/</link>
+      <pubDate>Wed, 06 May 2020 19:04:39 +0900</pubDate>
+      <guid>https://YukoSato.github.io/author/yuko-and-kentaro-sakuwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arce</title>
+      <link>https://YukoSato.github.io/author/arce/</link>
+      <pubDate>Wed, 06 May 2020 19:04:12 +0900</pubDate>
+      <guid>https://YukoSato.github.io/author/arce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moisés and Yuko Sato</title>
+      <link>https://YukoSato.github.io/author/moises-and-yuko-sato/</link>
+      <pubDate>Wed, 06 May 2020 19:04:12 +0900</pubDate>
+      <guid>https://YukoSato.github.io/author/moises-and-yuko-sato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frantzeskakis</title>
+      <link>https://YukoSato.github.io/author/frantzeskakis/</link>
+      <pubDate>Mon, 04 May 2020 23:55:21 +0900</pubDate>
+      <guid>https://YukoSato.github.io/author/frantzeskakis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nikolaos and Yuko Sato</title>
+      <link>https://YukoSato.github.io/author/nikolaos-and-yuko-sato/</link>
+      <pubDate>Mon, 04 May 2020 23:55:21 +0900</pubDate>
+      <guid>https://YukoSato.github.io/author/nikolaos-and-yuko-sato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuko and Michael Wahman</title>
+      <link>https://YukoSato.github.io/author/yuko-and-michael-wahman/</link>
+      <pubDate>Sun, 04 Aug 2019 23:55:21 +0900</pubDate>
+      <guid>https://YukoSato.github.io/author/yuko-and-michael-wahman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuko Sato</title>
+      <link>https://YukoSato.github.io/author/yuko-sato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://YukoSato.github.io/author/yuko-sato/</guid>
+      <description>&lt;p&gt;Welcome to my website!&lt;/p&gt;
+
+&lt;p&gt;I am a PhD candidate in political science at the University of Missouri. My research interest is developing a theory on the relationship between popular protests and party competition in democracies. Particularly, my dissertation project examines how radicalized protests increase polarization in the electoral field in case of Latin America. I specifically claim that protests may shape the relationship between grievance and polarization because protest events create a strong bias against the other groups. To evaluate this claim, I employ both quantitative survey analysis and in-depth case studies in Latin America. My research aims to advance our knowledge of the consequences of mobilization on the stability in developing democracies.&lt;/p&gt;
+
+&lt;p&gt;Beyond my dissertation, I have active research agenda on the effect of protests on democratization or policy change, the explanation for the variation in the level of protest across Latin America, and the determinat of far-right supports in new democracies. Across those topics, I have published or forthcoming articules at &lt;i&gt;Electoral Studies&lt;/i&gt; and &lt;i&gt; Democratization&lt;/i&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
