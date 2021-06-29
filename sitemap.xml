@@ -1,120 +1,148 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://YukoSato.github.io/authors/</loc>
-    <lastmod>2020-05-06T19:05:08+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/project/</loc>
-    <lastmod>2020-05-06T19:05:08+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/project/gun_policy/</loc>
-    <lastmod>2020-05-06T19:05:08+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/author/sato/</loc>
-    <lastmod>2020-05-06T19:05:08+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/author/yuko-and-jake-haselswerdt/</loc>
-    <lastmod>2020-05-06T19:05:08+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/</loc>
-    <lastmod>2020-05-06T19:05:08+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/project/veto_foreign_policy/</loc>
-    <lastmod>2020-05-06T19:04:39+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/author/yuko-and-kentaro-sakuwa/</loc>
-    <lastmod>2020-05-06T19:04:39+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/author/arce/</loc>
-    <lastmod>2020-05-06T19:04:12+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/author/moises-and-yuko-sato/</loc>
-    <lastmod>2020-05-06T19:04:12+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/project/protest_la/</loc>
-    <lastmod>2020-05-06T19:04:12+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/publication-type/2/</loc>
+    <loc>https://yukosato.github.io/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/gun-policy/</loc>
+    <lastmod>2021-06-28T19:05:08+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/policy-agenda/</loc>
+    <lastmod>2021-06-28T19:05:08+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/project/</loc>
+    <lastmod>2021-06-28T19:05:08+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/protest/</loc>
+    <lastmod>2021-06-28T19:05:08+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/project/gun_policy/</loc>
+    <lastmod>2021-06-28T19:05:08+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/state-policy/</loc>
+    <lastmod>2021-06-28T19:05:08+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tags/</loc>
+    <lastmod>2021-06-28T19:05:08+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/illiberalism/</loc>
+    <lastmod>2021-06-26T19:04:12+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/latin-america/</loc>
+    <lastmod>2021-06-26T19:04:12+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/populism/</loc>
+    <lastmod>2021-06-26T19:04:12+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/resistance/</loc>
+    <lastmod>2021-06-26T19:04:12+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/project/protest_la/</loc>
+    <lastmod>2021-06-26T19:04:12+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/publication-type/3/</loc>
+    <lastmod>2021-06-25T19:05:08+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/affective-polarization/</loc>
+    <lastmod>2021-06-25T19:05:08+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/project/affective_polarization/</loc>
+    <lastmod>2021-06-25T19:05:08+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/democracies/</loc>
+    <lastmod>2021-06-25T19:05:08+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/partisan/</loc>
+    <lastmod>2021-06-25T19:05:08+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/publication_types/</loc>
+    <lastmod>2021-06-25T19:05:08+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/bureaucracy/</loc>
+    <lastmod>2021-06-25T19:04:39+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/foreign-policy-change/</loc>
+    <lastmod>2021-06-25T19:04:39+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/oda/</loc>
+    <lastmod>2021-06-25T19:04:39+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/project/veto_foreign_policy/</loc>
+    <lastmod>2021-06-25T19:04:39+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/veto-player/</loc>
+    <lastmod>2021-06-25T19:04:39+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/publication-type/2/</loc>
     <lastmod>2020-05-04T23:55:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/publication/electoral-studies/</loc>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/authoritarian-legacies/</loc>
     <lastmod>2020-05-04T23:55:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/author/frantzeskakis/</loc>
+  </url><url>
+    <loc>https://yukosato.github.io/publication/electoral-studies/</loc>
     <lastmod>2020-05-04T23:55:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/author/nikolaos-and-yuko-sato/</loc>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/far-right-voting/</loc>
     <lastmod>2020-05-04T23:55:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/publication_types/</loc>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/political-socialization/</loc>
     <lastmod>2020-05-04T23:55:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/publication/</loc>
+  </url><url>
+    <loc>https://yukosato.github.io/publication/</loc>
     <lastmod>2020-05-04T23:55:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/publication/democratization/</loc>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/voting-behavior/</loc>
+    <lastmod>2020-05-04T23:55:21+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/coalition/</loc>
     <lastmod>2019-08-04T23:55:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/author/yuko-and-michael-wahman/</loc>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/democratization/</loc>
     <lastmod>2019-08-04T23:55:21+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/elections/</loc>
+    <lastmod>2019-08-04T23:55:21+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/tag/electoral-authoritarianism/</loc>
+    <lastmod>2019-08-04T23:55:21+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/publication/democratization/</loc>
+    <lastmod>2019-08-04T23:55:21+09:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yukosato.github.io/admin/</loc>
   </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://YukoSato.github.io/author/yuko-sato/</loc>
-  </url>
-  
 </urlset>

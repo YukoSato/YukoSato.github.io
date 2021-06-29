@@ -2,38 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Yuko Sato</title>
-    <link>https://YukoSato.github.io/project/</link>
-      <atom:link href="https://YukoSato.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yukosato.github.io/project/</link>
+      <atom:link href="https://yukosato.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ysato@mail.missouri.edu</copyright><lastBuildDate>Wed, 06 May 2020 19:05:08 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021 Yuko Sato</copyright><lastBuildDate>Mon, 28 Jun 2021 19:05:08 +0900</lastBuildDate>
     <image>
-      <url>https://YukoSato.github.io/img/icon.jpg</url>
+      <url>https://yukosato.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://YukoSato.github.io/project/</link>
+      <link>https://yukosato.github.io/project/</link>
     </image>
     
     <item>
-      <title>Protest and State Policy Agendas: Marches and Gun Policy After Parkland (Working Paper)</title>
-      <link>https://YukoSato.github.io/project/gun_policy/</link>
-      <pubDate>Wed, 06 May 2020 19:05:08 +0900</pubDate>
-      <guid>https://YukoSato.github.io/project/gun_policy/</guid>
-      <description></description>
+      <title>Protest and State Policy Agendas: Marches and Gun Policy After Parkland (Under Review)</title>
+      <link>https://yukosato.github.io/project/gun_policy/</link>
+      <pubDate>Mon, 28 Jun 2021 19:05:08 +0900</pubDate>
+      <guid>https://yukosato.github.io/project/gun_policy/</guid>
+      <description>&lt;p&gt;Protest and State Policy Agendas: Marches and Gun Policy After Parkland (Under Review)&amp;quot;
+summary: &amp;ldquo;Does protest spur the government to act at the regional or local level? While existing work finds that protest activity affects the behavior of national legislators, surprisingly, little work exists on the effects of protest on subnational level legislation. Gun control in the United States offers a promising case for studying this question, due to considerable variation in both protest and policymaking activity across the 50 states following the mass shooting in Parkland, FL in early 2018. We use an original monthly panel dataset of progress on both gun control and pro-gun legislation in all states between 2017 and 2019, paired with monthly protest march data from the Crowd Counting Consortium, to determine whether or not protest spurred state governments to act on gun control. We find that marches advocating gun control are associated with an increased likelihood of legislative movement and enactment on gun control, though they do not appear to discourage action that loosens gun laws. On the other side, pro-gun marches do not seem to have the desired effect, and may even spark a legislative backlash.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Stability and Change in the Foreign Aid Policy: The Role of Political and Bureaucratic Veto Players (Working Paper)</title>
-      <link>https://YukoSato.github.io/project/veto_foreign_policy/</link>
-      <pubDate>Wed, 06 May 2020 19:04:39 +0900</pubDate>
-      <guid>https://YukoSato.github.io/project/veto_foreign_policy/</guid>
-      <description></description>
+      <title>Resistance to Populism (Under Review)</title>
+      <link>https://yukosato.github.io/project/protest_la/</link>
+      <pubDate>Sat, 26 Jun 2021 19:04:12 +0900</pubDate>
+      <guid>https://yukosato.github.io/project/protest_la/</guid>
+      <description>&lt;p&gt;Populist leaders mobilize supporters to accomplish the political transformations they seek to achieve. However, once they are in office, populist leaders also encounter mobilizations against them because of their exclusionary rhetoric as well as their attack on existing democratic norms. Therefore, an increase in mobilizations under a populist leader can also be seen as resistance to populism. Based on panel data analysis across 18 Latin American countries for the period 1990-2018, we find that populist rhetoric triggers a higher level of pro-democratic protests when it is combined with a populist leader’s rejection of democratic norms. The findings are discussed in line with the political consequences of populism in contemporary Latin America.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Politics and the Variation of Protest in Latin America (Working Paper)</title>
-      <link>https://YukoSato.github.io/project/protest_la/</link>
-      <pubDate>Wed, 06 May 2020 19:04:12 +0900</pubDate>
-      <guid>https://YukoSato.github.io/project/protest_la/</guid>
-      <description></description>
+      <title>Crisis of Democracy: Targeted Protest and Affective Polarization (Working Paper)</title>
+      <link>https://yukosato.github.io/project/affective_polarization/</link>
+      <pubDate>Fri, 25 Jun 2021 19:05:08 +0900</pubDate>
+      <guid>https://yukosato.github.io/project/affective_polarization/</guid>
+      <description>&lt;p&gt;Political protests increasingly play an important role in shaping politics in democracies. What political consequences did this new global protest cycle bring about within democratic countries with unrest? Drawing on social identity theory, I argue that protest events, which targeted the ruling party or leaders, would serve as a focal event that may enhance voters’ attachment to partisan. Targeted protests provide open information containing a specific political message about targeted candidates or parties to the public. Accordingly, exposure to protests may activate and reinforce pre-existing partisan identities —including positive and negative— and ultimately triggers affective polarization at the mass level. To examine this argument, I use the cross-national survey data to test whether protests targeting the ruling party increase the level of mass polarization among 30 electoral democracies between 1996 and 2018. The findings have implications for understanding the impact of protests on voting behavior and the process of polarization in the context of widespread protests in democracies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stability and Change in the Foreign Aid Policy: The Role of Institutional Constraints (Working Paper)</title>
+      <link>https://yukosato.github.io/project/veto_foreign_policy/</link>
+      <pubDate>Fri, 25 Jun 2021 19:04:39 +0900</pubDate>
+      <guid>https://yukosato.github.io/project/veto_foreign_policy/</guid>
+      <description>&lt;p&gt;Although foreign policy is often characterized by continuity, major reorientations still happen. Extant explanations focus on various shocks as triggers of change. However, literature has yet fully identified the underlying institutional conditions, making a significant foreign policy change likely. This study examines how institutional constraints in various segments of domestic society affect foreign policy change. We analyze the annual change in the official development assistance (ODA) profile among the OECD member states from 1987 to 2016 and found that the number of veto players and independent merit-based bureaucracy substantially affects overseas developmental aid policy stability. We further examine the shift in ODA profile in major donor countries and illustrate how institutional constraints have delayed the ODA profile change. The paper adds to the literature on a foreign policy change by identifying domestic institutional conditions in the donor countries as a cause of change.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

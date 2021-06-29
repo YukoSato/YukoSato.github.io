@@ -2,23 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Yuko Sato</title>
-    <link>https://YukoSato.github.io/publication_types/</link>
-      <atom:link href="https://YukoSato.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yukosato.github.io/publication_types/</link>
+      <atom:link href="https://yukosato.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ysato@mail.missouri.edu</copyright><lastBuildDate>Mon, 04 May 2020 23:55:21 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021 Yuko Sato</copyright><lastBuildDate>Fri, 25 Jun 2021 19:05:08 +0900</lastBuildDate>
     <image>
-      <url>https://YukoSato.github.io/img/icon.jpg</url>
+      <url>https://yukosato.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publication_types</title>
-      <link>https://YukoSato.github.io/publication_types/</link>
+      <link>https://yukosato.github.io/publication_types/</link>
     </image>
-    
-    <item>
-      <title>2</title>
-      <link>https://YukoSato.github.io/publication-type/2/</link>
-      <pubDate>Mon, 04 May 2020 23:55:21 +0900</pubDate>
-      <guid>https://YukoSato.github.io/publication-type/2/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

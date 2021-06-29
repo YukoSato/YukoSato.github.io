@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://yukosato.github.io/sitemap.xml
