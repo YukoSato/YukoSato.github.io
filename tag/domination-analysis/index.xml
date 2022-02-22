@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domination analysis | Yuko Sato</title>
+    <link>https://yukosato.github.io/tag/domination-analysis/</link>
+      <atom:link href="https://yukosato.github.io/tag/domination-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Domination analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2022 Yuko Sato</copyright><lastBuildDate>Tue, 22 Feb 2022 19:04:39 +0900</lastBuildDate>
+    <image>
+      <url>https://yukosato.github.io/media/icon_hu079ce51fc4812f6f5f5f92aced331068_7994_512x512_fill_lanczos_center_2.png</url>
+      <title>Domination analysis</title>
+      <link>https://yukosato.github.io/tag/domination-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Chains in episodes of autocratization (Working Paper)</title>
+      <link>https://yukosato.github.io/project/chains_autocratization/</link>
+      <pubDate>Tue, 22 Feb 2022 19:04:39 +0900</pubDate>
+      <guid>https://yukosato.github.io/project/chains_autocratization/</guid>
+      <description>&lt;p&gt;When democracies autocratize, are there observable patterns in the sequences of institutional change, and are these patterns distinct for democracies that transition into authoritarianism vs. those that avert democratic breakdown? Based on the Episodes of Regime Transformation (ERT) dataset that provides a complete sample of 69 autocratization episodes between 1900-2020 and pairwise domination analysis, we describe the general order of reforms in 33 variables which consist of different types of accountability mechanisms constraining the government. The paper empirically demonstrates how different aspects of liberal democracy decline in episodes of autocratization that eventually transit to autocracy or not. With this method and data, we evaluate the extent to which existing theories capture observable patterns of democratic breakdown and resilience. Our findings are of high relevance not only for improving academic knowledge but also for policymakers and practitioners seeking to counteract further autocratization.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

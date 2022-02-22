@@ -5,7 +5,7 @@
     <link>https://yukosato.github.io/project/</link>
       <atom:link href="https://yukosato.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021 Yuko Sato</copyright><lastBuildDate>Mon, 28 Jun 2021 19:05:08 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2022 Yuko Sato</copyright><lastBuildDate>Tue, 22 Feb 2022 19:05:08 +0900</lastBuildDate>
     <image>
       <url>https://yukosato.github.io/media/icon_hu079ce51fc4812f6f5f5f92aced331068_7994_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,30 +13,20 @@
     </image>
     
     <item>
-      <title>Protest and State Policy Agendas: Marches and Gun Policy After Parkland (Under Review)</title>
-      <link>https://yukosato.github.io/project/gun_policy/</link>
-      <pubDate>Mon, 28 Jun 2021 19:05:08 +0900</pubDate>
-      <guid>https://yukosato.github.io/project/gun_policy/</guid>
-      <description>&lt;p&gt;Protest and State Policy Agendas: Marches and Gun Policy After Parkland (Under Review)&amp;quot;
-summary: &amp;ldquo;Does protest spur the government to act at the regional or local level? While existing work finds that protest activity affects the behavior of national legislators, surprisingly, little work exists on the effects of protest on subnational level legislation. Gun control in the United States offers a promising case for studying this question, due to considerable variation in both protest and policymaking activity across the 50 states following the mass shooting in Parkland, FL in early 2018. We use an original monthly panel dataset of progress on both gun control and pro-gun legislation in all states between 2017 and 2019, paired with monthly protest march data from the Crowd Counting Consortium, to determine whether or not protest spurred state governments to act on gun control. We find that marches advocating gun control are associated with an increased likelihood of legislative movement and enactment on gun control, though they do not appear to discourage action that loosens gun laws. On the other side, pro-gun marches do not seem to have the desired effect, and may even spark a legislative backlash.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Resistance to Populism (R&amp;R)</title>
-      <link>https://yukosato.github.io/project/protest_la/</link>
-      <pubDate>Sat, 26 Jun 2021 19:04:12 +0900</pubDate>
-      <guid>https://yukosato.github.io/project/protest_la/</guid>
-      <description>&lt;p&gt;Populist leaders mobilize supporters to accomplish the political transformations they seek to achieve. However, once they are in office, populist leaders also encounter mobilizations against them because of their exclusionary rhetoric as well as their attack on existing democratic norms. Therefore, an increase in mobilizations under a populist leader can also be seen as resistance to populism. Based on panel data analysis across 18 Latin American countries for the period 1990-2018, we find that populist rhetoric triggers a higher level of pro-democratic protests when it is combined with a populist leader’s rejection of democratic norms. The findings are discussed in line with the political consequences of populism in contemporary Latin America.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Crisis of Democracy: Targeted Protest and Affective Polarization (Working Paper)</title>
+      <title>Crisis of Democracy: Targeted Protest and Affective Polarization (Preparing for Submission)</title>
       <link>https://yukosato.github.io/project/affective_polarization/</link>
-      <pubDate>Fri, 25 Jun 2021 19:05:08 +0900</pubDate>
+      <pubDate>Tue, 22 Feb 2022 19:05:08 +0900</pubDate>
       <guid>https://yukosato.github.io/project/affective_polarization/</guid>
       <description>&lt;p&gt;Political protests increasingly play an important role in shaping politics in democracies. What political consequences did this new global protest cycle bring about within democratic countries with unrest? Drawing on social identity theory, I argue that protest events, which targeted the ruling party or leaders, would serve as a focal event that may enhance voters’ attachment to partisan. Targeted protests provide open information containing a specific political message about targeted candidates or parties to the public. Accordingly, exposure to protests may activate and reinforce pre-existing partisan identities —including positive and negative— and ultimately triggers affective polarization at the mass level. To examine this argument, I use the cross-national survey data to test whether protests targeting the ruling party increase the level of mass polarization among 30 electoral democracies between 1996 and 2018. The findings have implications for understanding the impact of protests on voting behavior and the process of polarization in the context of widespread protests in democracies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chains in episodes of autocratization (Working Paper)</title>
+      <link>https://yukosato.github.io/project/chains_autocratization/</link>
+      <pubDate>Tue, 22 Feb 2022 19:04:39 +0900</pubDate>
+      <guid>https://yukosato.github.io/project/chains_autocratization/</guid>
+      <description>&lt;p&gt;When democracies autocratize, are there observable patterns in the sequences of institutional change, and are these patterns distinct for democracies that transition into authoritarianism vs. those that avert democratic breakdown? Based on the Episodes of Regime Transformation (ERT) dataset that provides a complete sample of 69 autocratization episodes between 1900-2020 and pairwise domination analysis, we describe the general order of reforms in 33 variables which consist of different types of accountability mechanisms constraining the government. The paper empirically demonstrates how different aspects of liberal democracy decline in episodes of autocratization that eventually transit to autocracy or not. With this method and data, we evaluate the extent to which existing theories capture observable patterns of democratic breakdown and resilience. Our findings are of high relevance not only for improving academic knowledge but also for policymakers and practitioners seeking to counteract further autocratization.&lt;/p&gt;
 </description>
     </item>
     
