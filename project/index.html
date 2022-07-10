@@ -258,45 +258,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0D75H8BT4N"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-0D75H8BT4N', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
   
@@ -347,7 +308,7 @@
     <meta property="twitter:image" content="https://yukosato.github.io/media/icon_hu079ce51fc4812f6f5f5f92aced331068_7994_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2022-02-22T19:05:08&#43;09:00" />
+      <meta property="og:updated_time" content="2022-07-10T19:04:39&#43;09:00" />
     
   
 
@@ -792,13 +753,13 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/affective_polarization/" >Crisis of Democracy: Targeted Protest and Affective Polarization (Preparing for Submission)</a>
+      <a href="/project/chains_autocratization/" >Chains in episodes of autocratization (Preparing for Submission)</a>
     </div>
 
     
-    <a href="/project/affective_polarization/"  class="summary-link">
+    <a href="/project/chains_autocratization/"  class="summary-link">
       <div class="article-style">
-        I use the cross-national survey data to test whether protests targeting the ruling party increase the level of mass polarization among electoral democracies.
+        The paper empirically demonstrates how different aspects of liberal democracy decline in episodes of autocratization that eventually transit to autocracy or not.
       </div>
     </a>
     
@@ -812,7 +773,13 @@
         
 
   <span >
-      Yuko Sato</span>
+      Sato</span>, <span >
+      Yuko</span>, <span >
+      Vanessa A. Boese</span>, <span >
+      Martin Lundstedt</span>, <span >
+      Klas Markström</span>, <span >
+      Kelly Morrison</span>, <span >
+      and Staffan I. Lindberg</span>
       </div>
       
     </div>
@@ -852,13 +819,13 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/chains_autocratization/" >Chains in episodes of autocratization (Working Paper)</a>
+      <a href="/project/affective_polarization/" >Crisis of Democracy: Targeted Protest and Affective Polarization (Preparing for Submission)</a>
     </div>
 
     
-    <a href="/project/chains_autocratization/"  class="summary-link">
+    <a href="/project/affective_polarization/"  class="summary-link">
       <div class="article-style">
-        The paper empirically demonstrates how different aspects of liberal democracy decline in episodes of autocratization that eventually transit to autocracy or not.
+        I use the cross-national survey data to test whether protests targeting the ruling party increase the level of mass polarization among electoral democracies.
       </div>
     </a>
     
@@ -872,13 +839,7 @@
         
 
   <span >
-      Sato</span>, <span >
-      Yuko</span>, <span >
-      Vanessa A. Boese</span>, <span >
-      Martin Lundstedt</span>, <span >
-      Klas Markström</span>, <span >
-      Kelly Morrison</span>, <span >
-      and Staffan I. Lindberg</span>
+      Yuko Sato</span>
       </div>
       
     </div>

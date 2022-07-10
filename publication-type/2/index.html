@@ -258,45 +258,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0D75H8BT4N"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-0D75H8BT4N', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
   
@@ -347,7 +308,7 @@
     <meta property="twitter:image" content="https://yukosato.github.io/media/icon_hu079ce51fc4812f6f5f5f92aced331068_7994_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2022-02-25T23:55:21&#43;09:00" />
+      <meta property="og:updated_time" content="2022-05-23T23:55:21&#43;09:00" />
     
   
 
@@ -767,6 +728,115 @@
   
 
   
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/democratization3/" >State of the world 2021: autocratization changing its nature?</a>
+    </div>
+
+    
+    <a href="/publication/democratization3/"  class="summary-link">
+      <div class="article-style">
+        This article analyses the state of democracy around the world in 2021.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Boese</span>, <span >
+      Martin Lundstedt</span>, <span >
+      Kelly Morrison</span>, <span >
+      Yuko Sato &amp; Staffan I. Lindberg</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/democratization3/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1080/13510347.2022.2069751" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/democratization3/" >
+      <img src="/publication/democratization3/featured_hu5ceaffee7ab6e37ff2a090b61743400d_97464_150x0_resize_q75_lanczos.jpeg" alt="State of the world 2021: autocratization changing its nature?" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+    
   
     
       
