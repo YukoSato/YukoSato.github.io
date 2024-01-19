@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Democratization | Yuko Sato</title>
-    <link>https://yukosato.github.io/tag/democratization/</link>
-      <atom:link href="https://yukosato.github.io/tag/democratization/index.xml" rel="self" type="application/rss+xml" />
-    <description>Democratization</description>
+    <title>Disinformation | Yuko Sato</title>
+    <link>https://yukosato.github.io/tag/disinformation/</link>
+      <atom:link href="https://yukosato.github.io/tag/disinformation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Disinformation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2022 Yuko Sato</copyright><lastBuildDate>Wed, 13 Sep 2023 19:04:39 +0900</lastBuildDate>
     <image>
       <url>https://yukosato.github.io/media/icon_hu079ce51fc4812f6f5f5f92aced331068_7994_512x512_fill_lanczos_center_2.png</url>
-      <title>Democratization</title>
-      <link>https://yukosato.github.io/tag/democratization/</link>
+      <title>Disinformation</title>
+      <link>https://yukosato.github.io/tag/disinformation/</link>
     </image>
     
     <item>
@@ -19,22 +19,6 @@
       <guid>https://yukosato.github.io/project/disinformation/</guid>
       <description>&lt;p&gt;Disinformation has transformed into a global issue and while it is seen as a growing concern to democracy today, autocrats have long used it as a part of their propaganda repertoire. Yet, no study has tested the effect of disinformation on regime breakdown and stability beyond country-specific studies. Drawing on novel measures from the Digital Society Project (DSP) estimating the levels of disinformation disseminated by governments across 179 countries be- tween 2000-2022 and from the Episodes of Regime Transformation (ERT) dataset, we provide the first global comparative study of disinformation and survival of democratic and authoritar- ian regimes, respectively. The results show that in authoritarian regimes, disinformation helps rulers to stay in power as regimes with higher levels of disinformation are less likely to experi- ence democratization episodes. In democracies, on the other hand, disinformation increases the probability of autocratization onsets. As such, this study is the first to provide comparative evidence on the negative effects of disinformation on democracy as well as on the prospects of democratization.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>State of the World 2021: Autocratization Changing its Nature?</title>
-      <link>https://yukosato.github.io/publication/democratization3/</link>
-      <pubDate>Mon, 23 May 2022 23:55:21 +0900</pubDate>
-      <guid>https://yukosato.github.io/publication/democratization3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elite Coordination and Popular Protest: The Joint Effect on Democratic Change</title>
-      <link>https://yukosato.github.io/publication/democratization/</link>
-      <pubDate>Sun, 04 Aug 2019 23:55:21 +0900</pubDate>
-      <guid>https://yukosato.github.io/publication/democratization/</guid>
-      <description></description>
     </item>
     
   </channel>
