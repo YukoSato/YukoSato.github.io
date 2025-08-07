@@ -1,77 +1,81 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuko Sato
+
+# Name pronunciation (optional)
+name_pronunciation: 
+
+# Full name (for SEO)
+first_name: Yuko
+last_name: Sato
+
+# Status emoji
+status:
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
+
+# Role/position/tagline
+role: Assistant Professor
+
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: Koç University
+    url: https://gsssh.ku.edu.tr/en/departments/political-science-and-international-relations/
+
+# Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: envelope
+    url: 'mailto:SatoY@ceu.edu'
+    label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/Yuko_Sato88
+  - icon: brands/github
+    url:  https://github.com/YukoSato
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=-Lt8x0hl6GYC&hl=ja
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-7458-6134
+
+interests:
+  - Popular Mobilization
+  - Voting Behavior
+  - Democratization and Autocratization
+  - Latin American Politics
+
+education:
+  - area: PhD in Political Science
+    institution: University of Missouri
+    year: 2021
+    date_start: 2016-08-01
+    date_end: 2021-05-01
+
+  - area: MA in Political Science
+    institution: Kobe University (Japan)
+    year: 2015
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+
+  - area: BSc in Maritime Science and Technology
+    institution: Kobe University (Japan)
+    year: 2012
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+## Biography 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Welcome to my website!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am an upcoming assistant professor in [the Department of International Relations at Koç University](https://gsssh.ku.edu.tr/en/departments/political-science-and-international-relations/) in Istanbul, Türkiye. I am currently a postdoctoral researcher at [the Democracy Institute, Central European University](https://democracyinstitute.ceu.edu/) and a research associate at [the Varieties of Democracy (V-Dem) Institute at the University of Gothenburg](https://www.v-dem.net) (Sweden) and  [Waseda Institute for Advanced Study (WIAS) at Waseda University](https://www.waseda.jp/inst/wias/en/) (Japan). 
+
+I received my PhD in Political Science from the University of Missouri in 2021. Before taking up my position in Budapest, I was an assistant professor at  [WIAS](https://www.waseda.jp/inst/wias/en/), a postdoctoral fellow at [the V-Dem Institute](https://www.v-dem.net), and a predoctoral fellow at [the Center for Inter-American Policy and Research (CIPR) at Tulane University](http://cipr.tulane.edu/).
+
+My research focuses on political behavior—particularly popular protests and public opinion—and regime transformation, including both democratization and autocratization, with a regional emphasis on Latin America. My work has been published in peer-reviewed journals and edited volumes, including <i>Policy Studies Journal</i>, <i>Electoral Studies</i>, <i>Political Research Quarterly </i>, <i> Democratization</i>, and with Oxford University Press.

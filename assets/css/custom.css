@@ -1,0 +1,22 @@
+
+/* Navbar fix */
+header.navbar, nav.navbar, .navbar {
+  background-color: #001f3f !important;
+}
+
+header.navbar a,
+nav.navbar a,
+.navbar a {
+  color: #ffffff !important;
+}
+
+body {
+  background-color: white !important;
+  color: #2c3e50; /* Dark blue text */
+}
+
+
+.smaller-font {
+  font-size: 0.85rem !important;  /* Adjust this size as you want */
+  line-height: 1.4 !important;
+}
