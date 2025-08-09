@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Participatory Institutions | Hugo Academic CV Theme</title><link>https://yukosato.github.io/tags/participatory-institutions/</link><atom:link href="https://yukosato.github.io/tags/participatory-institutions/index.xml" rel="self" type="application/rss+xml"/><description>Participatory Institutions</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2015 23:55:21 +0900</lastBuildDate><image><url>https://yukosato.github.io/media/icon_hu7729264130191091259.png</url><title>Participatory Institutions</title><link>https://yukosato.github.io/tags/participatory-institutions/</link></image><item><title>Determinants of Successful Participatory Institutions in Brazil</title><link>https://yukosato.github.io/publication/latin_america-ronshu/</link><pubDate>Sun, 01 Nov 2015 23:55:21 +0900</pubDate><guid>https://yukosato.github.io/publication/latin_america-ronshu/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Participatory Institutions | Yuko Sato</title>
+    <link>https://yukosato.github.io/tags/participatory-institutions/</link>
+      <atom:link href="https://yukosato.github.io/tags/participatory-institutions/index.xml" rel="self" type="application/rss+xml" />
+    <description>Participatory Institutions</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2015 23:55:21 +0900</lastBuildDate>
+    <image>
+      <url>https://yukosato.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Participatory Institutions</title>
+      <link>https://yukosato.github.io/tags/participatory-institutions/</link>
+    </image>
+    
+    <item>
+      <title>Determinants of Successful Participatory Institutions in Brazil</title>
+      <link>https://yukosato.github.io/publication/latin_america-ronshu/</link>
+      <pubDate>Sun, 01 Nov 2015 23:55:21 +0900</pubDate>
+      <guid>https://yukosato.github.io/publication/latin_america-ronshu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

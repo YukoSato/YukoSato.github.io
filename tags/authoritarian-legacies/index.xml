@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authoritarian Legacies | Hugo Academic CV Theme</title><link>https://yukosato.github.io/tags/authoritarian-legacies/</link><atom:link href="https://yukosato.github.io/tags/authoritarian-legacies/index.xml" rel="self" type="application/rss+xml"/><description>Authoritarian Legacies</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2020 23:55:21 +0900</lastBuildDate><image><url>https://yukosato.github.io/media/icon_hu7729264130191091259.png</url><title>Authoritarian Legacies</title><link>https://yukosato.github.io/tags/authoritarian-legacies/</link></image><item><title>Echoes of a Fading Past: Authoritarian Legacies and Far-Right Voting</title><link>https://yukosato.github.io/publication/electoral-studies/</link><pubDate>Mon, 04 May 2020 23:55:21 +0900</pubDate><guid>https://yukosato.github.io/publication/electoral-studies/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authoritarian Legacies | Yuko Sato</title>
+    <link>https://yukosato.github.io/tags/authoritarian-legacies/</link>
+      <atom:link href="https://yukosato.github.io/tags/authoritarian-legacies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authoritarian Legacies</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2020 23:55:21 +0900</lastBuildDate>
+    <image>
+      <url>https://yukosato.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Authoritarian Legacies</title>
+      <link>https://yukosato.github.io/tags/authoritarian-legacies/</link>
+    </image>
+    
+    <item>
+      <title>Echoes of a Fading Past: Authoritarian Legacies and Far-Right Voting</title>
+      <link>https://yukosato.github.io/publication/electoral-studies/</link>
+      <pubDate>Mon, 04 May 2020 23:55:21 +0900</pubDate>
+      <guid>https://yukosato.github.io/publication/electoral-studies/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

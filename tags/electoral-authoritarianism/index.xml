@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electoral Authoritarianism | Hugo Academic CV Theme</title><link>https://yukosato.github.io/tags/electoral-authoritarianism/</link><atom:link href="https://yukosato.github.io/tags/electoral-authoritarianism/index.xml" rel="self" type="application/rss+xml"/><description>Electoral Authoritarianism</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Aug 2019 23:55:21 +0900</lastBuildDate><image><url>https://yukosato.github.io/media/icon_hu7729264130191091259.png</url><title>Electoral Authoritarianism</title><link>https://yukosato.github.io/tags/electoral-authoritarianism/</link></image><item><title>Elite Coordination and Popular Protest: The Joint Effect on Democratic Change</title><link>https://yukosato.github.io/publication/democratization/</link><pubDate>Sun, 04 Aug 2019 23:55:21 +0900</pubDate><guid>https://yukosato.github.io/publication/democratization/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electoral Authoritarianism | Yuko Sato</title>
+    <link>https://yukosato.github.io/tags/electoral-authoritarianism/</link>
+      <atom:link href="https://yukosato.github.io/tags/electoral-authoritarianism/index.xml" rel="self" type="application/rss+xml" />
+    <description>Electoral Authoritarianism</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Aug 2019 23:55:21 +0900</lastBuildDate>
+    <image>
+      <url>https://yukosato.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Electoral Authoritarianism</title>
+      <link>https://yukosato.github.io/tags/electoral-authoritarianism/</link>
+    </image>
+    
+    <item>
+      <title>Elite Coordination and Popular Protest: The Joint Effect on Democratic Change</title>
+      <link>https://yukosato.github.io/publication/democratization/</link>
+      <pubDate>Sun, 04 Aug 2019 23:55:21 +0900</pubDate>
+      <guid>https://yukosato.github.io/publication/democratization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Autocratization | Hugo Academic CV Theme</title><link>https://yukosato.github.io/tags/autocratization/</link><atom:link href="https://yukosato.github.io/tags/autocratization/index.xml" rel="self" type="application/rss+xml"/><description>Autocratization</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Aug 2025 19:04:39 +0900</lastBuildDate><image><url>https://yukosato.github.io/media/icon_hu7729264130191091259.png</url><title>Autocratization</title><link>https://yukosato.github.io/tags/autocratization/</link></image><item><title>How Autocratization Unfolds: Analyzing Institutional Order in Autocratization Episodes (R&amp;R)</title><link>https://yukosato.github.io/project/chains_autocratization/</link><pubDate>Thu, 07 Aug 2025 19:04:39 +0900</pubDate><guid>https://yukosato.github.io/project/chains_autocratization/</guid><description>&lt;p>Are there patterns in the sequences of institutional change when democracies autocratize? Despite the growing literature on autocratization, studies have not yet systematically explored and described the order in which different aspects of democracy regress. The Episodes of Regime Transformation (ERT) dataset, which identifies a global sample of 63 autocratization episodes from 1900-2022, provides the opportunity to evaluate autocratization in a quantitative framework. Using this data and pairwise domination analysis, we describe the general order of decline in 31 variables composing different accountability mechanisms constraining the government. The results yield three main findings. First, we find that institutional decay generally starts with horizontal accountability, followed by declines in diagonal accountability and, finally, vertical accountability. Second, the overall sequence of autocratization is remarkably similar in cases where democracy eventually broke down and where it ultimately survived. Finally, we find notable temporal variation: in the third wave of autocratization, declines in diagonal accountability tend to occur later than in earlier periods. By offering a systematic account of how autocratization typically unfolds, this study adds crucial insight to the growing literature on autocratization and democratic resilience.&lt;/p></description></item><item><title>Disinformation and Regime Survival</title><link>https://yukosato.github.io/publication/politica_research_quartely/</link><pubDate>Mon, 27 May 2024 23:55:21 +0900</pubDate><guid>https://yukosato.github.io/publication/politica_research_quartely/</guid><description/></item><item><title>State of the world 2022: defiance in the face of autocratization</title><link>https://yukosato.github.io/publication/democratization4/</link><pubDate>Wed, 24 May 2023 23:55:21 +0900</pubDate><guid>https://yukosato.github.io/publication/democratization4/</guid><description/></item><item><title>State of the World 2021: Autocratization Changing its Nature?</title><link>https://yukosato.github.io/publication/democratization3/</link><pubDate>Mon, 23 May 2022 23:55:21 +0900</pubDate><guid>https://yukosato.github.io/publication/democratization3/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autocratization | Yuko Sato</title>
+    <link>https://yukosato.github.io/tags/autocratization/</link>
+      <atom:link href="https://yukosato.github.io/tags/autocratization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Autocratization</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Aug 2025 19:04:39 +0900</lastBuildDate>
+    <image>
+      <url>https://yukosato.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Autocratization</title>
+      <link>https://yukosato.github.io/tags/autocratization/</link>
+    </image>
+    
+    <item>
+      <title>How Autocratization Unfolds: Analyzing Institutional Order in Autocratization Episodes (R&amp;R)</title>
+      <link>https://yukosato.github.io/project/chains_autocratization/</link>
+      <pubDate>Thu, 07 Aug 2025 19:04:39 +0900</pubDate>
+      <guid>https://yukosato.github.io/project/chains_autocratization/</guid>
+      <description>&lt;p&gt;Are there patterns in the sequences of institutional change when democracies autocratize? Despite the growing literature on autocratization, studies have not yet systematically explored and described the order in which different aspects of democracy regress. The Episodes of Regime Transformation (ERT) dataset, which identifies a global sample of 63 autocratization episodes from 1900-2022, provides the opportunity to evaluate autocratization in a quantitative framework. Using this data and pairwise domination analysis, we describe the general order of decline in 31 variables composing different accountability mechanisms constraining the government. The results yield three main findings. First, we find that institutional decay generally starts with horizontal accountability, followed by declines in diagonal accountability and, finally, vertical accountability. Second, the overall sequence of autocratization is remarkably similar in cases where democracy eventually broke down and where it ultimately survived. Finally, we find notable temporal variation: in the third wave of autocratization, declines in diagonal accountability tend to occur later than in earlier periods. By offering a systematic account of how autocratization typically unfolds, this study adds crucial insight to the growing literature on autocratization and democratic resilience.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disinformation and Regime Survival</title>
+      <link>https://yukosato.github.io/publication/politica_research_quartely/</link>
+      <pubDate>Mon, 27 May 2024 23:55:21 +0900</pubDate>
+      <guid>https://yukosato.github.io/publication/politica_research_quartely/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State of the world 2022: defiance in the face of autocratization</title>
+      <link>https://yukosato.github.io/publication/democratization4/</link>
+      <pubDate>Wed, 24 May 2023 23:55:21 +0900</pubDate>
+      <guid>https://yukosato.github.io/publication/democratization4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State of the World 2021: Autocratization Changing its Nature?</title>
+      <link>https://yukosato.github.io/publication/democratization3/</link>
+      <pubDate>Mon, 23 May 2022 23:55:21 +0900</pubDate>
+      <guid>https://yukosato.github.io/publication/democratization3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
