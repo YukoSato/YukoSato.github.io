@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
-    url: 'mailto:SatoY@ceu.edu'
+    url: 'mailto:YSATO@ku.edu.tr'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/Yuko_Sato88
@@ -74,8 +74,8 @@ education:
 
 Welcome to my website!
 
-I am an upcoming assistant professor in [the Department of International Relations at Koç University](https://gsssh.ku.edu.tr/en/departments/political-science-and-international-relations/) in Istanbul, Türkiye. I am currently a postdoctoral researcher at [the Democracy Institute, Central European University](https://democracyinstitute.ceu.edu/) and a research associate at [the Varieties of Democracy (V-Dem) Institute at the University of Gothenburg](https://www.v-dem.net) (Sweden) and  [Waseda Institute for Advanced Study (WIAS) at Waseda University](https://www.waseda.jp/inst/wias/en/) (Japan). 
+I am an assistant professor in [the Department of International Relations at Koç University](https://gsssh.ku.edu.tr/en/departments/political-science-and-international-relations/) in Istanbul, Türkiye. I am also a research associate at [the Democracy Institute, Central European University](https://democracyinstitute.ceu.edu/) (Hungary), [the Varieties of Democracy (V-Dem) Institute at the University of Gothenburg](https://www.v-dem.net) (Sweden), and  [Waseda Institute for Advanced Study (WIAS) at Waseda University](https://www.waseda.jp/inst/wias/en/) (Japan). 
 
-I received my PhD in Political Science from the University of Missouri in 2021. Before taking up my position in Budapest, I was an assistant professor at  [WIAS](https://www.waseda.jp/inst/wias/en/), a postdoctoral fellow at [the V-Dem Institute](https://www.v-dem.net), and a predoctoral fellow at [the Center for Inter-American Policy and Research (CIPR) at Tulane University](http://cipr.tulane.edu/).
+I received my PhD in Political Science from the University of Missouri in 2021. Before taking up my position in Istanbul, I was an assistant professor at  [WIAS](https://www.waseda.jp/inst/wias/en/), a postdoctoral fellow at [the V-Dem Institute](https://www.v-dem.net) and [the Democracy Institute](https://democracyinstitute.ceu.edu/), and a predoctoral fellow at [the Center for Inter-American Policy and Research (CIPR) at Tulane University](http://cipr.tulane.edu/).
 
 My research focuses on political behavior—particularly popular protests and public opinion—and regime transformation, including both democratization and autocratization, with a regional emphasis on Latin America. My work has been published in peer-reviewed journals and edited volumes, including <i>Policy Studies Journal</i>, <i>Electoral Studies</i>, <i>Political Research Quarterly </i>, <i> Democratization</i>, and with Oxford University Press.
